@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+<title>Open knockout on temp panel</title>
+<rect width="800" height="520" fill="#E6E0D2"/>
+<rect x="16" y="16" width="768" height="488" fill="none" stroke="#1C2B24" stroke-width="2"/>
+<text x="32" y="44" fill="#5C675E" font-family="ui-sans-serif,sans-serif" font-size="14" letter-spacing="2">FIELD SKETCH</text>
+<text x="32" y="492" fill="#1C2B24" font-family="ui-sans-serif,sans-serif" font-size="16">Open knockout on temp panel</text>
+<rect x="260" y="90" width="280" height="320" fill="#3D4A45" stroke="#1C2B24" stroke-width="4"/>
+<rect x="290" y="130" width="220" height="40" fill="#1C2B24"/>
+<circle cx="340" cy="250" r="28" fill="#E6E0D2"/>
+<circle cx="430" cy="250" r="28" fill="#2A2A2A"/>
+<circle cx="520" cy="250" r="28" fill="#2A2A2A"/>
+<circle cx="400" cy="330" r="22" fill="none" stroke="#D6EE4A" stroke-width="6"/>
+<text x="300" y="450" fill="#1C2B24" font-size="14" font-family="ui-sans-serif">OPEN KNOCKOUT</text>
+</svg>

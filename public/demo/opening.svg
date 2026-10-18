@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+<title>Unguarded floor opening</title>
+<rect width="800" height="520" fill="#E6E0D2"/>
+<rect x="16" y="16" width="768" height="488" fill="none" stroke="#1C2B24" stroke-width="2"/>
+<text x="32" y="44" fill="#5C675E" font-family="ui-sans-serif,sans-serif" font-size="14" letter-spacing="2">FIELD SKETCH</text>
+<text x="32" y="492" fill="#1C2B24" font-family="ui-sans-serif,sans-serif" font-size="16">Unguarded floor opening</text>
+<g stroke="#1C2B24" fill="none" stroke-width="3">
+  <path d="M40 120 H760"/>
+  <path d="M80 120 V390"/>
+<path d="M160 120 V390"/>
+<path d="M240 120 V390"/>
+<path d="M320 120 V390"/>
+<path d="M400 120 V390"/>
+<path d="M480 120 V390"/>
+<path d="M560 120 V390"/>
+<path d="M640 120 V390"/>
+  <path d="M40 390 H760"/>
+</g>
+<rect x="300" y="180" width="200" height="150" fill="#1C2B24"/>
+<rect x="292" y="172" width="216" height="166" fill="none" stroke="#D6EE4A" stroke-width="6" stroke-dasharray="10 6"/>
+<text x="318" y="260" fill="#D6EE4A" font-family="ui-sans-serif" font-size="16">OPENING</text>
+</svg>

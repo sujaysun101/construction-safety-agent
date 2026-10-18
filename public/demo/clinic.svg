@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+<title>Corridor in an occupied clinic</title>
+<rect width="800" height="520" fill="#E6E0D2"/>
+<rect x="16" y="16" width="768" height="488" fill="none" stroke="#1C2B24" stroke-width="2"/>
+<text x="32" y="44" fill="#5C675E" font-family="ui-sans-serif,sans-serif" font-size="14" letter-spacing="2">FIELD SKETCH</text>
+<text x="32" y="492" fill="#1C2B24" font-family="ui-sans-serif,sans-serif" font-size="16">Corridor in an occupied clinic</text>
+<rect x="60" y="80" width="680" height="340" fill="#F4F0E6" stroke="#1C2B24" stroke-width="3"/>
+<path d="M60 200 H740" stroke="#C9C2B2" stroke-width="2"/>
+<rect x="420" y="230" width="46" height="140" fill="#E7E1D4" stroke="#1C2B24"/>
+<rect x="470" y="250" width="46" height="120" fill="#DDD4C4" stroke="#1C2B24"/>
+<rect x="400" y="210" width="180" height="180" fill="none" stroke="#D6EE4A" stroke-width="5" stroke-dasharray="8 6"/>
+<text x="80" y="140" fill="#5C675E" font-size="14" font-family="ui-sans-serif">OCCUPIED SIDE</text>
+<text x="430" y="200" fill="#1C2B24" font-size="14" font-family="ui-sans-serif">SCRAP</text>
+</svg>

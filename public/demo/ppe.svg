@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+<title>Hard hat left at the hoist</title>
+<rect width="800" height="520" fill="#E6E0D2"/>
+<rect x="16" y="16" width="768" height="488" fill="none" stroke="#1C2B24" stroke-width="2"/>
+<text x="32" y="44" fill="#5C675E" font-family="ui-sans-serif,sans-serif" font-size="14" letter-spacing="2">FIELD SKETCH</text>
+<text x="32" y="492" fill="#1C2B24" font-family="ui-sans-serif,sans-serif" font-size="16">Hard hat left at the hoist</text>
+<path d="M80 360 H420" stroke="#1C2B24" stroke-width="8"/>
+<path d="M120 360 V280 H200 V360" fill="none" stroke="#1C2B24" stroke-width="6"/>
+<path d="M130 250 h60 q30 20 30 40 h-120 q0-20 30-40z" fill="#E2B423" stroke="#1C2B24" stroke-width="3"/>
+<rect x="460" y="180" width="220" height="20" fill="#1C2B24"/>
+<rect x="500" y="200" width="16" height="70" fill="#1C2B24"/>
+<rect x="620" y="200" width="16" height="70" fill="#1C2B24"/>
+<rect x="500" y="150" width="140" height="90" fill="none" stroke="#D6EE4A" stroke-width="5" stroke-dasharray="8 6"/>
+<text x="520" y="140" fill="#1C2B24" font-size="14" font-family="ui-sans-serif">EMPTY HOOKS</text>
+</svg>
