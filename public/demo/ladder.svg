@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+<title>Stair rail stops short</title>
+<rect width="800" height="520" fill="#E6E0D2"/>
+<rect x="16" y="16" width="768" height="488" fill="none" stroke="#1C2B24" stroke-width="2"/>
+<text x="32" y="44" fill="#5C675E" font-family="ui-sans-serif,sans-serif" font-size="14" letter-spacing="2">FIELD SKETCH</text>
+<text x="32" y="492" fill="#1C2B24" font-family="ui-sans-serif,sans-serif" font-size="16">Stair rail stops short</text>
+<path d="M120 420 L360 120" stroke="#1C2B24" stroke-width="8"/>
+<path d="M200 420 L440 120" stroke="#1C2B24" stroke-width="8"/>
+<path d="M150 160 H250" stroke="#1C2B24" stroke-width="5"/><path d="M168 206 H268" stroke="#1C2B24" stroke-width="5"/><path d="M186 252 H286" stroke="#1C2B24" stroke-width="5"/><path d="M204 298 H304" stroke="#1C2B24" stroke-width="5"/><path d="M222 344 H322" stroke="#1C2B24" stroke-width="5"/><path d="M240 390 H340" stroke="#1C2B24" stroke-width="5"/>
+<path d="M90 400 L300 180" stroke="#1C2B24" stroke-width="6"/>
+<circle cx="330" cy="150" r="8" fill="#D1432F"/>
+<rect x="300" y="110" width="180" height="80" fill="none" stroke="#D6EE4A" stroke-width="5" stroke-dasharray="8 6"/>
+<text x="470" y="160" fill="#1C2B24" font-size="14" font-family="ui-sans-serif">RAIL ENDS</text>
+</svg>

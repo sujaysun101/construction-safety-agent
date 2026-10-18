@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+<title>Missing guardrail bay</title>
+<rect width="800" height="520" fill="#E6E0D2"/>
+<rect x="16" y="16" width="768" height="488" fill="none" stroke="#1C2B24" stroke-width="2"/>
+<text x="32" y="44" fill="#5C675E" font-family="ui-sans-serif,sans-serif" font-size="14" letter-spacing="2">FIELD SKETCH</text>
+<text x="32" y="492" fill="#1C2B24" font-family="ui-sans-serif,sans-serif" font-size="16">Missing guardrail bay</text>
+<path d="M40 360 H760" stroke="#1C2B24" stroke-width="4"/>
+<path d="M120 360 V180" stroke="#1C2B24" stroke-width="6"/><path d="M220 360 V180" stroke="#1C2B24" stroke-width="6"/><path d="M320 360 V180" stroke="#1C2B24" stroke-width="6"/><path d="M520 360 V180" stroke="#1C2B24" stroke-width="6"/><path d="M620 360 V180" stroke="#1C2B24" stroke-width="6"/><path d="M720 360 V180" stroke="#1C2B24" stroke-width="6"/>
+<path d="M120 200 H320" stroke="#1C2B24" stroke-width="6"/>
+<path d="M120 250 H320" stroke="#1C2B24" stroke-width="6"/>
+<path d="M520 200 H720" stroke="#1C2B24" stroke-width="6"/>
+<path d="M520 250 H720" stroke="#1C2B24" stroke-width="6"/>
+<rect x="330" y="170" width="180" height="190" fill="#D6EE4A" fill-opacity="0.55" stroke="#1C2B24" stroke-dasharray="8 6"/>
+<text x="360" y="270" fill="#1C2B24" font-family="ui-sans-serif" font-size="16">GAP</text>
+</svg>
